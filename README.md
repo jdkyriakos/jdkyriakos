@@ -5,7 +5,7 @@
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
-<a href="https://www.youtube.com/c/ucj6ycs09vwn4vzrzz8-t56q" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="ucj6ycs09vwn4vzrzz8-t56q" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCj6YcS09VWn4VzRZz8-T56Q/playlists" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="ucj6ycs09vwn4vzrzz8-t56q" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools :</h3>
