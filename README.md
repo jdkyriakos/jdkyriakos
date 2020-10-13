@@ -12,6 +12,7 @@
     <tr>
         <td valign="top" width="50%">
             <div align="right"> 
+                    <p align="center"> 
                     <a href="https://github.com/jdkyriakos" target="_blank">
                         <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
                     </a>
@@ -29,6 +30,7 @@
                             <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
                         </a>
                     -->
+                     </p>
                     <p align="center"> <img src="https://komarev.com/ghpvc/?username=jdkyriakos&label=Profile%20views&color=0e75b6&style=flat" alt="jdkyriakos" /> </p>
             </div>
         </td>
