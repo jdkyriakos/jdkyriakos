@@ -8,34 +8,32 @@
 ## Connect with me
 
 
-<div >
-    <div style="float: left;">
-        <div style="float: right;">
-            <a href="https://github.com/jdkyriakos" target="_blank">
-                <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-            </a>
-            <a href="https://linkedin.com/in/jdkyriakos" target="_blank">
-                <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-            </a>
-            <!-- 
-            <a href="https://dev.to/jdkyriakos" target="_blank">
-                <img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
-            </a>
-            <a href="https://stackoverflow.com/users/jdkyriakos" target="_blank">
-                <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
-            </a>
-            -->
-            <a href="https://www.youtube.com/channel/UCj6YcS09VWn4VzRZz8-T56Q/playlists" target="_blank">
-                <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
-            </a> 
-            <div align="center"> <img src="https://komarev.com/ghpvc/?username=jdkyriakos&label=Profile%20views&color=0e75b6&style=flat" alt="jdkyriakos" /> </div>
-        </div>
-    </div>
-    <div style="float: right;">
-        <div style="float: left;"><img src="https://github-readme-stats.vercel.app/api?username=jdkyriakos&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-    </div>
+<div>
+    <p align="left">
+        <a href="https://github.com/jdkyriakos" target="_blank">
+            <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+        </a>
+        <a href="https://linkedin.com/in/jdkyriakos" target="_blank">
+            <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+        </a>
+        <!-- 
+        <a href="https://dev.to/jdkyriakos" target="_blank">
+            <img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
+        </a>
+        <a href="https://stackoverflow.com/users/jdkyriakos" target="_blank">
+            <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
+        </a>
+        -->
+        <a href="https://www.youtube.com/channel/UCj6YcS09VWn4VzRZz8-T56Q/playlists" target="_blank">
+            <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
+        </a> 
+        <p align="center"> <img src="https://komarev.com/ghpvc/?username=jdkyriakos&label=Profile%20views&color=0e75b6&style=flat" alt="jdkyriakos" /> </p>
+    </p>
+    <p align="right">
+        <img src="https://github-readme-stats.vercel.app/api?username=jdkyriakos&show_icons=true&count_private=true&hide_border=true" align="center" /> 
+    </p>
 </div>
-<div style="clear: both;"></div>
+
 
 
 
