@@ -10,7 +10,7 @@
 
 <table>
     <tr>
-        <td valign="top" width="50%">
+        <td valign="center" width="50%">
             <div align="right"> 
                     <p align="center"> 
                     <a href="https://github.com/jdkyriakos" target="_blank">
