@@ -12,7 +12,7 @@
         <!-- Organisation  -->
         <samp>
                 「 1010101 」
-                <br><br>
+                <br>
                 「 Software is the hidden writing that whispers the stories of possibility to our hardware - <b>We are storytellers.</b> 」
                 <br>
                 <br>
@@ -21,7 +21,7 @@
 
 <br>
 
-## <animated-image style="display: inline-block;width: 50px;"><a target="_blank" rel="noopener noreferrer" href="https://github.com/jdkyriakos" data-target="animated-image.originalLink"><img src="./images/Developer.gif" style="width: 19%; display: inline-block;" data-target="animated-image.originalImage"></a></animated-image> About me
+## <animated-image style="width:45;display: inline-block;width: 45px;"><a target="_blank" rel="noopener noreferrer" href="https://github.com/jdkyriakos" data-target="animated-image.originalLink"><img src="./images/Developer.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a></animated-image> About me
 
 
 > Hi 👋, I'm a Senior engineer with over 10 years of experience in software development.
@@ -68,14 +68,13 @@
 </table>  
 
 
-## <animated-image style="display: inline-block;width: 30px;"><a target="_blank" rel="noopener noreferrer" href="https://github.com/jdkyriakos" data-target="animated-image.originalLink"><img src="./images/githubIcon.gif" style="width: 4%; display: inline-block;" data-target="animated-image.originalImage"></a></animated-image> Tech Stack Awareness
+## <animated-image style="width:45px;display: inline-block;width: 30px;"><a target="_blank" rel="noopener noreferrer" href="https://github.com/jdkyriakos" data-target="animated-image.originalLink"><img src="./images/githubIcon.gif" style="width: 50%; display: inline-block;max-width:100%" data-target="animated-image.originalImage"></a></animated-image> Tech Stack Awareness
 
 
-![Git][git]
+![Git][git]&nbsp;&nbsp;&nbsp;&nbsp;
 ![intellijidea][intellijidea]
 ![VS Code][VS Code]
-![neovim][neovim]
-
+![neovim][neovim] &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![linux][linux]
 ![windows][windows]
 
