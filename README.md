@@ -19,8 +19,6 @@
         </samp>
 </p>
 
-<br>
-
 ## <animated-image style="display: inline-block;width: 45px;"><a target="_blank" rel="noopener noreferrer" href="https://github.com/jdkyriakos" data-target="animated-image.originalLink"><img src="./images/Developer.gif" style="width: 45px;max-width: 100%;" data-target="animated-image.originalImage"></a></animated-image> About me
 
 
@@ -30,7 +28,7 @@
 
 <br>
 
-## <animated-image style="display: inline-block;width: 30px;"><a target="_blank" rel="noopener noreferrer" href="https://github.com/jdkyriakos" data-target="animated-image.originalLink"><img src="./images/coffeeIcon.svg" style="width: 4%; display: inline-block;" data-target="animated-image.originalImage"></a></animated-image> Connect with me
+## <animated-image style="display: inline-block;width: 45px;"><a target="_blank" rel="noopener noreferrer" href="https://github.com/jdkyriakos" data-target="animated-image.originalLink"><img src="./images/coffeeIcon.svg" style="width: 45px;max-width:100%" data-target="animated-image.originalImage"></a></animated-image> Connect with me
 
 
 <table>
@@ -68,7 +66,7 @@
 </table>  
 
 
-## <animated-image style="width:45px;display: inline-block;width: 30px;"><a target="_blank" rel="noopener noreferrer" href="https://github.com/jdkyriakos" data-target="animated-image.originalLink"><img src="./images/githubIcon.gif" style="width: 50%; display: inline-block;max-width:100%" data-target="animated-image.originalImage"></a></animated-image> Tech Stack Awareness
+## <animated-image style="display: inline-block;width: 45px;"><a target="_blank" rel="noopener noreferrer" href="https://github.com/jdkyriakos" data-target="animated-image.originalLink"><img src="./images/githubIcon.gif" style="width: 45px;max-width:100%" data-target="animated-image.originalImage"></a></animated-image> Tech Stack Awareness
 
 
 ![Git][git]&nbsp;&nbsp;&nbsp;&nbsp;
@@ -82,7 +80,7 @@
 
 [intellijidea]: https://img.shields.io/badge/-IntelliJ-%23007ACC?style=flat-square&logo=intellijidea
 [VS Code]: https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code
-[neovim]: https://img.shields.io/badge/-Neovim-%23007ACC?style=flat-square&logo=neovim
+[neovim]: https://img.shields.io/badge/-Neovim-%2523007ACC?style=flat-square&logo=neovim
 
 [linux]: https://img.shields.io/badge/-Linux-%23007ACC?style=flat-square&logo=linux
 [windows]: https://img.shields.io/badge/-Windows-%23007ACC?style=flat-square&logo=windows
@@ -170,8 +168,7 @@
     <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
 </div></td></tr></table>  
 
-<br/><br/> 
-
+<br/>
 
 ## Bonus
 <!-- Meme Section-->
@@ -185,4 +182,8 @@
         <br>
     </p>
 </details>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+</p>
 <br><br/> 
