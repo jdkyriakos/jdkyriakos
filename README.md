@@ -1,11 +1,36 @@
 ![jdkyriakos Banner](./images/banner.png)
 
-## About me
+
+
+<!-- Intro  -->
+<h3 align="center">
+        <samp>&gt; Hey There <b>&lt;coders/&gt;!</b>, I am
+                <b><a target="_blank" href="https://linkedin.com/in/kdrakoulakis">jdkyriakos</a></b>
+        </samp>
+</h3>
+<p align="center">
+        <!-- Organisation  -->
+        <samp>
+                「 1010101 」
+                <br><br>
+                「 Software is the hidden writing that whispers the stories of possibility to our hardware - <b>We are storytellers.</b> 」
+                <br>
+                <br>
+        </samp>
+</p>
+
+<br>
+
+## <animated-image style="display: inline-block;width: 50px;"><a target="_blank" rel="noopener noreferrer" href="https://github.com/jdkyriakos" data-target="animated-image.originalLink"><img src="./images/Developer.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a></animated-image> About me
+
+
 > Hi 👋, I'm a Senior engineer with over 10 years of experience in software development.
 > 
 > I like programming and always want to learn and master new skills.
 
-## Connect with me
+<br>
+
+## <animated-image style="display: inline-block;width: 30px;"><a target="_blank" rel="noopener noreferrer" href="https://github.com/jdkyriakos" data-target="animated-image.originalLink"><img src="./images/coffeeIcon.svg" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a></animated-image> Connect with me
 
 
 <table>
@@ -43,15 +68,25 @@
 </table>  
 
 
-## Tech Stack Awareness
+## <animated-image style="display: inline-block;width: 30px;"><a target="_blank" rel="noopener noreferrer" href="https://github.com/jdkyriakos" data-target="animated-image.originalLink"><img src="./images/githubIcon.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a></animated-image> Tech Stack Awareness
 
 
 ![Git][git]
+![intellijidea][intellijidea]
 ![VS Code][VS Code]
+![neovim][neovim]
+
+![linux][linux]
+![windows][windows]
 
 [git]: https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff
-[VS Code]: https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-cod
 
+[intellijidea]: https://img.shields.io/badge/-IntelliJ-%23007ACC?style=flat-square&logo=intellijidea
+[VS Code]: https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code
+[neovim]: https://img.shields.io/badge/-Neovim-%23007ACC?style=flat-square&logo=neovim
+
+[linux]: https://img.shields.io/badge/-Linux-%23007ACC?style=flat-square&logo=linux
+[windows]: https://img.shields.io/badge/-Windows-%23007ACC?style=flat-square&logo=windows
 
 
 <table><tr><td valign="top" width="33%">
@@ -132,15 +167,23 @@
 <div align="center">  
 
 </div></td><td valign="top" width="33%">
-<!-- 
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jenkins-icon.svg" alt="Jenkins" height="50" /> 
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" />  -->
-
-
 <div align="center">  
-
+    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
 </div></td></tr></table>  
 
-<br/>  
+<br/><br/> 
 
+
+## Bonus
+<!-- Meme Section-->
+<details align="left">
+    <summary> <samp>&#9776; Meme</samp></summary>
+    <p align="center">
+        <br>
+        <!-- Activity Widget -->
+        <img alt="meme.gif"
+                src="./images/memePic.gif" />
+        <br>
+    </p>
+</details>
+<br><br/> 
