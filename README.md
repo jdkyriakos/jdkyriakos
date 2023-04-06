@@ -21,7 +21,7 @@
 
 <br>
 
-## <animated-image style="display: inline-block;width: 50px;"><a target="_blank" rel="noopener noreferrer" href="https://github.com/jdkyriakos" data-target="animated-image.originalLink"><img src="./images/Developer.gif" style="max-width: 19%; display: inline-block;" data-target="animated-image.originalImage"></a></animated-image> About me
+## <animated-image style="display: inline-block;width: 50px;"><a target="_blank" rel="noopener noreferrer" href="https://github.com/jdkyriakos" data-target="animated-image.originalLink"><img src="./images/Developer.gif" style="width: 19%; display: inline-block;" data-target="animated-image.originalImage"></a></animated-image> About me
 
 
 > Hi 👋, I'm a Senior engineer with over 10 years of experience in software development.
@@ -30,7 +30,7 @@
 
 <br>
 
-## <animated-image style="display: inline-block;width: 30px;"><a target="_blank" rel="noopener noreferrer" href="https://github.com/jdkyriakos" data-target="animated-image.originalLink"><img src="./images/coffeeIcon.svg" style="max-width: 4%; display: inline-block;" data-target="animated-image.originalImage"></a></animated-image> Connect with me
+## <animated-image style="display: inline-block;width: 30px;"><a target="_blank" rel="noopener noreferrer" href="https://github.com/jdkyriakos" data-target="animated-image.originalLink"><img src="./images/coffeeIcon.svg" style="width: 4%; display: inline-block;" data-target="animated-image.originalImage"></a></animated-image> Connect with me
 
 
 <table>
@@ -68,7 +68,7 @@
 </table>  
 
 
-## <animated-image style="display: inline-block;width: 30px;"><a target="_blank" rel="noopener noreferrer" href="https://github.com/jdkyriakos" data-target="animated-image.originalLink"><img src="./images/githubIcon.gif" style="max-width: 4%; display: inline-block;" data-target="animated-image.originalImage"></a></animated-image> Tech Stack Awareness
+## <animated-image style="display: inline-block;width: 30px;"><a target="_blank" rel="noopener noreferrer" href="https://github.com/jdkyriakos" data-target="animated-image.originalLink"><img src="./images/githubIcon.gif" style="width: 4%; display: inline-block;" data-target="animated-image.originalImage"></a></animated-image> Tech Stack Awareness
 
 
 ![Git][git]
