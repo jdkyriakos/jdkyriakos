@@ -11,7 +11,7 @@
 <p align="center">
         <!-- Organisation  -->
         <samp>
-                「 1010101 」
+                「 10101010 」
                 <br>
                 「 Software is the hidden writing that whispers the stories of possibility to our hardware - <b>We are storytellers.</b> 」
                 <br>
@@ -78,11 +78,11 @@
 
 [git]: https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff
 
-[intellijidea]: https://img.shields.io/badge/-IntelliJ-%23007ACC?style=flat-square&logo=intellijidea
+[intellijidea]: https://img.shields.io/badge/-IntelliJ-%23007ACC?style=flat-square&logo=intellijidea&color=white&logoColor=000000
 [VS Code]: https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code
-[neovim]: https://img.shields.io/badge/-Neovim-%2523007ACC?style=flat-square&logo=neovim
+[neovim]: https://img.shields.io/badge/-Neovim-%2523007ACC?style=flat-square&logo=neovim&logoColor=37b026 
 
-[linux]: https://img.shields.io/badge/-Linux-%23007ACC?style=flat-square&logo=linux
+[linux]: https://img.shields.io/badge/-Linux-%23007ACC?style=flat-square&logo=linux&color=ffd454&logoColor=000000
 [windows]: https://img.shields.io/badge/-Windows-%23007ACC?style=flat-square&logo=windows
 
 
