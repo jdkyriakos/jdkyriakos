@@ -28,7 +28,7 @@
 
 <br>
 
-## <animated-image style="display: inline-block;width: 45px;"><a target="_blank" rel="noopener noreferrer" href="https://github.com/jdkyriakos" data-target="animated-image.originalLink"><img src="./images/coffeeIcon.svg" style="width: 45px;max-width:100%" data-target="animated-image.originalImage"></a></animated-image> Connect with me
+## <animated-image style="display: inline-block;width: 45px;"><a target="_blank" rel="noopener noreferrer" href="https://github.com/jdkyriakos" data-target="animated-image.originalLink"><img src="./images/svg/coffeeIcon.svg" style="width: 45px;max-width:100%" data-target="animated-image.originalImage"></a></animated-image> Connect with me
 
 
 <table>
@@ -45,13 +45,8 @@
                     <a href="https://www.youtube.com/channel/UCj6YcS09VWn4VzRZz8-T56Q/playlists" target="_blank">
                         <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
                     </a> 
-                    <!-- 
-                        <a href="https://dev.to/jdkyriakos" target="_blank">
-                            <img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
-                        </a>
-                        <a href="https://stackoverflow.com/users/jdkyriakos" target="_blank">
-                            <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
-                        </a>
+                    <!-- More svg icons
+                        https://simpleicons.org/
                     -->
                      </p>
                     <p align="center"> <img src="https://komarev.com/ghpvc/?username=jdkyriakos&label=Profile%20views&color=0e75b6&style=flat" alt="jdkyriakos" /> </p>
@@ -63,7 +58,7 @@
             </div>
         </td>
     </tr>
-</table>  
+</table>   
 
 
 ## <animated-image style="display: inline-block;width: 45px;"><a target="_blank" rel="noopener noreferrer" href="https://github.com/jdkyriakos" data-target="animated-image.originalLink"><img src="./images/githubIcon.gif" style="width: 45px;max-width:100%" data-target="animated-image.originalImage"></a></animated-image> Tech Stack Awareness
@@ -88,9 +83,9 @@
 
 <table><tr><td valign="top" width="33%">
 <div align="center"> 
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /> 
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" title="Java"/>  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" title="C#"/> 
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" title="JS" />  
 <!--  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
@@ -155,8 +150,9 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" /> 
 --> 
 </div></td><td valign="top" width="33%">
-    <img style="margin: 10px" src="./images/perl.svg" alt="Perl" height="50" />  
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
+    <img style="margin: 10px" src="./images/svg/perl.svg" alt="Perl" height="50"  title="Perl"/>
+    <img style="margin: 10px" src="./images/svg/gnubash.svg" alt="Bash" height="50"  title="Bash"/> 
+    <img style="margin: 10px" src="./images/svg/lua-color.svg" alt="Lua" height="50" title="Lua" />  
     <!--
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring" height="50" />  
  -->
@@ -165,7 +161,8 @@
 
 </div></td><td valign="top" width="33%">
 <div align="center">  
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
+    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" title="Linux" />
+    <img style="margin: 10px" src="./images/svg/windows-color.svg" alt="Windows" height="50" title="Windows"/>  
 </div></td></tr></table>  
 
 <br/>
@@ -185,5 +182,4 @@
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
-</p>
-<br><br/> 
+</p> 
