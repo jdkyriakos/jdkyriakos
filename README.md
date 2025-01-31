@@ -27,6 +27,8 @@
 > I like programming and always want to learn and master new skills.
 
 <br>
+&nbsp;&nbsp;「  My <a  href="https://kit.co/jdkyriakos/dev-battle-station">Dev gear</a>  」
+<br>
 
 ## <animated-image style="display: inline-block;width: 45px;"><a target="_blank" rel="noopener noreferrer" href="https://github.com/jdkyriakos" data-target="animated-image.originalLink"><img src="./images/svg/coffeeIcon.svg" style="width: 45px;max-width:100%" data-target="animated-image.originalImage"></a></animated-image> Connect with me
 
@@ -84,6 +86,7 @@
 <table><tr><td valign="top" width="33%">
 <div align="center"> 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" title="Java"/>  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" title="Python"/></a>  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" title="C#"/> 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" title="JS" />  
 <!--  
