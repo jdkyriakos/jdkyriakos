@@ -19,7 +19,7 @@
         </samp>
 </p>
 
-## <a target="_blank" rel="noopener noreferrer" href="https://github.com/jdkyriakos" ><img src="./images/Developer.gif" style="width: 45px;max-width: 100%;" ></a> About me
+## <a target="_blank" rel="noopener noreferrer" href="https://github.com/jdkyriakos" ><img src="./images/Developer.gif" width="70px" ></a> About me
 
 
 > Hi 👋, I'm a Senior engineer with over 15 years of experience in software development.
@@ -30,7 +30,7 @@
 &nbsp;&nbsp;「  My <a  href="https://kit.co/jdkyriakos/dev-battle-station">Dev gear</a>  」
 <br>
 
-## <a target="_blank" rel="noopener noreferrer" href="https://github.com/jdkyriakos" ><img src="./images/svg/coffeeIcon.svg" style="width: 45px;max-width:100%" ></a> Connect with me
+## <a target="_blank" rel="noopener noreferrer" href="https://github.com/jdkyriakos" ><img src="./images/svg/coffeeIcon.svg" width="50px" ></a> Connect with me
 
 
 <table>
@@ -63,7 +63,7 @@
 </table>   
 
 
-## <a target="_blank" rel="noopener noreferrer" href="https://github.com/jdkyriakos" ><img src="./images/githubIcon.gif" style="width: 45px;max-width:100%" ></a> Tech Stack Awareness
+## <a target="_blank" rel="noopener noreferrer" href="https://github.com/jdkyriakos" ><img src="./images/githubIcon.gif" width="50px"  ></a> Tech Stack Awareness
 
 
 ![Git][git]&nbsp;&nbsp;&nbsp;&nbsp;
